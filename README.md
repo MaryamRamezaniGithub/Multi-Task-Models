@@ -1,5 +1,6 @@
 
 TensorFlow Image Classification with Multi-Output Model
+
 This project demonstrates multi-task learning using TensorFlow, where a model is trained to predict both the digit and color of handwritten images from the MNIST dataset. The code is organized into several tasks, each serving a specific purpose.
 
 Task 1: Setup and Data Preparation
